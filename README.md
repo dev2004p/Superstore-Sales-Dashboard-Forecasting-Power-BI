@@ -34,4 +34,7 @@ The project provides insights into sales, profit, and order quantity across diff
 ---
 <img width="1170" height="656" alt="Screenshot 2025-08-16 091903" src="https://github.com/user-attachments/assets/b1dbfc99-134a-400c-9ca5-794ad3c0d5a6" />
 
+<img width="1078" height="520" alt="Screenshot 2025-08-16 092017" src="https://github.com/user-attachments/assets/2afd12c5-015f-442a-9f22-2ae617c79cc0" />
+
+forecasting sales for 5 days
 
