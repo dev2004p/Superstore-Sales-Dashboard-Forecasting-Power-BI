@@ -33,7 +33,4 @@ The project provides insights into sales, profit, and order quantity across diff
 
 ---
 
-## 📦 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/superstore-sales-dashboard.git
+
