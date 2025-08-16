@@ -32,5 +32,6 @@ The project provides insights into sales, profit, and order quantity across diff
 - Forecast indicates a **steady upward trend** in sales over the next 5 days.  
 
 ---
+<img width="1170" height="656" alt="Screenshot 2025-08-16 091903" src="https://github.com/user-attachments/assets/b1dbfc99-134a-400c-9ca5-794ad3c0d5a6" />
 
 
